@@ -33,6 +33,7 @@ h2 {
     border-radius: 5px;
 }
 div {
+    width: 90%;
     padding: 20px;
     margin: 10px auto;
     text-align: center;
@@ -55,6 +56,7 @@ p {
     line-height: 1.8;
     font-size: 16px;
     text-indent: 2em;
+    box-sizing: border-box;
 }
 sup {
     color: #E76571;
